@@ -1,0 +1,8 @@
+:root { 
+    --primary-color: #C7C7C7; 
+    --secundary-color: #313131;
+}
+
+body {
+    font-family: Inter, sans-serif;
+}
