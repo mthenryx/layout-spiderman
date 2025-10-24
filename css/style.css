@@ -83,7 +83,39 @@ body .fundo, .descricao, .rodape{
 
 /* Rodapé */
 
-.seta {
-    height: 50px;
-    width: 100px;
+.redirecionador {
+    background-color: var(--secundary-color);
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
 }
+
+.seta {
+    height: 100px;
+    width: 200px;
+    margin-left: 5vw;
+}
+
+.redirecionador span {
+    color:  white;
+    margin-left: 2vw;
+}
+
+.redirecionador p {
+    color:  white;
+    margin-left: 2vw;
+    margin-top: 22vh;
+    margin-bottom: 2vh;
+    margin-right: 10vw;
+}
+
+.redirecionador image {
+
+}
+
+p {
+    font-size: 40px;
+}
+
+
+
