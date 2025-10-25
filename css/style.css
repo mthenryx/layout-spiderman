@@ -309,4 +309,77 @@ body .fundo,
 }
 
 /* MOBILE */
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+
+    .descricao img {
+        display: none;
+    }
+
+    .redirecionador .roupa {
+        display: none;
+    }
+
+    /* Descrição */
+
+    .descricao h1 {
+        font-size: 40px;
+        margin-top: 1vh;
+    }
+
+    .carousel div {
+        height: 5px;
+        width: 5px;
+    }
+
+    .descricao p {
+        font-size: 15px;
+    }
+
+    .botoes {
+        margin-top: 2vh;
+    }
+
+    .botoes div {
+        width: 30px;
+        height: 30px;
+        font-size: 25px;
+    }
+
+    /* Rodapé */
+
+    .jordan h3 {
+        font-size: 20px;
+    }
+
+    .jordan span {
+        font-size: 15px;
+    }
+
+    .jordan img {
+        height: 59px;
+        width: 100px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    .indicadores div {
+        height: 5px;
+        width: 5px;
+    }
+
+    .jordan .compra {
+        font-size: 12px;
+        padding: 5px 5px;
+    }
+
+    .conteiner h2 {
+        font-size: 20px;
+        margin-bottom: 2vh;
+        margin-top: 5vh;
+    }
+
+    .conteiner p {
+        font-size: 15px;
+    }
+
+}
