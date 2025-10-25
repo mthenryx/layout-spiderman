@@ -25,14 +25,14 @@ body .fundo, .descricao, .rodape{
 
 .descricao h6 {
     color: var(--primary-color);
-    font-size: 20px;
+    font-size: 16px;
     margin-top: 5vh;
-    margin-bottom: 18vh;
+    margin-bottom: 15vh;
 }
 
 .descricao h1 {
     color: var(--secundary-color);
-    font-size: 100px;
+    font-size: 80px;
     margin-right: 20vw;
 }
 
@@ -61,6 +61,8 @@ body .fundo, .descricao, .rodape{
     margin-bottom: 8vh;
     margin-right: 2vw;
 }
+
+
 
 .botoes {
     display: flex;
@@ -98,7 +100,7 @@ body .fundo, .descricao, .rodape{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 22px;
+  font-size: 16px;
   color: var(--primary-color);
 }
 
@@ -108,7 +110,7 @@ body .fundo, .descricao, .rodape{
 }
 
 .conteiner h2 {
-  font-size: 50px;
+  font-size: 35px;
   font-weight: 500;
   margin-bottom: 1vh;
 }
@@ -136,8 +138,8 @@ body .fundo, .descricao, .rodape{
 }
 
 .jordan img {
-    height: 163;
-    width: 277;
+    height: 150;
+    width: 240;
     margin-top: 3vh;
     margin-bottom: 2vh;
 }
@@ -168,4 +170,14 @@ body .fundo, .descricao, .rodape{
     padding: 8px 20px;
     font-size: 16px;
     cursor: pointer;
+}
+
+/* TABLET */
+@media (max-width: 1024px) {
+
+}
+
+/* MOBILE */
+@media (max-width: 480px) {
+
 }
