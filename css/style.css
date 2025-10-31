@@ -126,6 +126,7 @@ body .fundo,
 .conteiner p {
     font-size: 22px;
     color: var(--primary-color);
+    margin-bottom: 5vh;
 }
 
 .jordan {
@@ -303,7 +304,7 @@ body .fundo,
 
     .conteiner h2 {
         font-size: 30px;
-        margin-bottom: 1vh;
+        margin-bottom: 3vh;
     }
 
     .conteiner p {
