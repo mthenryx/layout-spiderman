@@ -7,7 +7,7 @@
 
 Landing page inspirada no estilo visual https://dribbble.com/shots/6988386-Spider-Man-Into-the-Spider-Verse-Web-Design, com foco em um design moderno, interativo e visualmente impactante. Desenvolvida para destacar elementos gráficos e animações em uma experiência imersiva.
 
-### 📄 Páginas Principais
+## 📄 Páginas Principais
 
 - `index.html` - Página inicial
 
