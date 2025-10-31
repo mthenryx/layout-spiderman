@@ -104,6 +104,11 @@ body .fundo,
     justify-content: space-between;
 }
 
+.redirecionador .top,
+.seta, .conteiner {
+    margin-left: 2vw;
+}
+
 .top {
     display: flex;
     justify-content: space-between;
