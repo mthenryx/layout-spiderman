@@ -195,8 +195,13 @@ body .fundo,
         justify-content: space-between;
     }
 
-    .topo .fundo, .descricao {
+    .topo .descricao {
         height: 65vh;
+        width: 50vw;
+    }
+
+    .topo .fundo {
+        height: 75vh;
         width: 50vw;
     }
 
